@@ -298,7 +298,7 @@ int main() {
         cout << "---------------------------------------------" << endl << endl;
         cout << "          WELCOME TO FUSION ARCADE            " << endl << endl;
         cout << "---------------------------------------------" << endl << endl;
-        cout << "Project Made By : Areeb Ahmed ,Abdul Hadi , Abdul Wahab " << endl << endl;
+        cout << "Project Made By : Areeb Ahmed  " << endl << endl;
         cout << "---------------------- Game Menu ----------------------" << endl;
         cout << "Choose a game to play:" << endl;
         cout << "1) Ball Blitz" << endl;
